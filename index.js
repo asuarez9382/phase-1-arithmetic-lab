@@ -5,10 +5,10 @@ const num2 = 2;
 const num3 = 10;
 const num4 = 6;
 
-let multiply = num1*num2
+const multiply = num1*num2
 
-let random = Math.floor(Math.random()*10);
+const random = Math.floor(Math.random()*10);
 
-let mod = num3%num4
+const mod = num3%num4
 
-let max = Math.max(1, 2, 3, 4, 20);
+const max = Math.max(1, 2, 3, 4, 20);
